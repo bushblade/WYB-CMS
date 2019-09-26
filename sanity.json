@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "p57h3pso",
+    "dataset": "production"
+  },
   "project": {
     "name": "westyorkshirebushcraft"
-  },
-  "api": {
-    "projectId": "14teq0jg",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
